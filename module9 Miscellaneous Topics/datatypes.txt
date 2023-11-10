@@ -1,0 +1,23 @@
+Primitive data types in js
+
+When you declare a primitive data type in JavaScript, it is stored on a stack. 
+A stack is a simple data structure that the computer uses to store and retrieve data quickly.
+
+Numbers
+strings
+undefined
+boolean 
+null
+symbols
+
+
+Reference data types in js
+
+reference data types are stored in Heap memory
+
+objects
+functions
+collections 
+arrays
+dates
+other types of objects
