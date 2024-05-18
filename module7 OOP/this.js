@@ -1,16 +1,16 @@
 // console.log(this);
-//output - {}
+// output - {}
 // in browser mode 
-//output - window object
+// output - window object
 
 // function myfn (){
 //     console.log(this);
 // }
 // myfn ()
 
-//output - Global object
+// output - Global object
 // in browser mode 
-//output - window object
+// output - window object
 
 
 // let myobj ={
@@ -23,9 +23,9 @@
 // }
 // myobj.myfn();
 
-//ouput - { name: 'rushi', age: 25, myfn: [Function: myfn] }
+// ouput - { name: 'rushi', age: 25, myfn: [Function: myfn] }
 // in browser mode 
-//ouput - { name: 'rushi', age: 25, myfn: [Function: myfn] }
+// ouput - { name: 'rushi', age: 25, myfn: [Function: myfn] }
 
 
 // let myobj2 = {
@@ -41,6 +41,6 @@
 // }
 // myobj2.myfn2();
 
-//outout - Global Object
+// outout - Global Object
 // in browser mode 
-//output - window object
+// output - window object
